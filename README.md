@@ -1,6 +1,6 @@
 # Philosophies for Building Beautiful Things
 
-These philosophies are written to exponencially grow an individual's ability to solve problems with software.
+These philosophies are written to exponentially grow an individual's ability to solve problems with software.
 
 1. **Everything that you build should better enhance the next idea, startup, project, api, react component, data structure, and so forth.** By building in the perspective to enhance your future output, you will be left with more time to innovate and your previous adversities should swiftly be resolved if they ever return again.
 
