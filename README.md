@@ -4,9 +4,9 @@ These philosophies are personal beliefs with the goal of finding success in my c
 
 1. Everything that you build should better enhance the next idea, startup, project, api, react component, data structure, and so forth. By building in the perspective to enhance your future output, your previous adversities should swiftly be resolved if they ever return again.
 
-   Code is such that one project can be abstracted in an architecture that will make your next idea even stronger. Chances are you won't achieve greatness on your first try, but by understanding that everything you build will help the next idea, you are increasing the chances of success.
+   Code is such that it can be abstracted in an architecture that will make your next idea even stronger. Chances are you won't achieve greatness on your first try, but by understanding that everything you build will help the next idea, you are increasing the chances of success.
 
-   Every project that I start, whether it fails or succeeds will help the next project. It's this reason why I don't believe in doing consulting work anymore. Consulting work has a tendency to linearly follow the more time equals more profits pattern. As an entrepreneur, I don't have time to waste, I can't afford a failure having no impact on my next project.
+   Every project that I start, whether it fails or succeeds will help the next project. It's this reason why I don't believe in doing consulting work anymore. Consulting work has a tendency to linearly follow the more time equals more profits pattern. As an entrepreneur, I don't have time to waste and everything I build will have an impact on my next project.
 
 2. Before building anything, engineers need to develop an empathetic connection to the problem and a clear focus on the task at hand. Whether it's Steve Jobs, Jonny Ive or Time Cook, Apple's innovative designs start with a deep understanding to a problem and clear focus when building products. This is stated through each design philosophy created by these individuals at Apple.
 
