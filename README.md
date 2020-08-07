@@ -1,6 +1,6 @@
 # Philosophies for Building Beautiful Things
 
-These philosophies are written to be practiced in the entirety of one's career rather than for a project or year at some company.
+These philosophies are written to be practiced in the entirety of one's life for the betterment of writing software to solve problems.
 
 1. Everything that you build should better enhance the next idea, startup, project, api, react component, data structure, and so forth. By building in the perspective to enhance your future output, you will be left with more time to innovate and your previous adversities should swiftly be resolved if they ever return again.
 
