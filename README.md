@@ -13,3 +13,5 @@ These philosophies are written to be practiced in the entirety of one's life for
    Looking back at my experience building products, the greatest products were built in an environment that allowed people to empathize with the problem and create a clear path to focus on. Seek to question the conditions of the build environment as the output of the work.
 
    To decode this at a deeper level, empathy represents the qualitative feelings of a problem and focus represents the quantitative todo list to solve the problem such as time and yes/no questions of task completion. All engineers require a sense of empathy to build something great. The absence of an empathetic connection to a problem will lead to building for the wrong/no audience. While without true focus, engineers will over/under optimize an application without futuristic need.
+
+   I believe it is a true skill to be able to master both empathy and focus. The more opportunity put into empathizing with problems and focusing on what actually needs to get done will result in more overall success in anything you put your mind to.
